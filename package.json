@@ -1,0 +1,19 @@
+{
+  "name": "livechart",
+  "version": "1.0.0",
+  "description": "its a node js chart application developed on socket.io",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Mr Gudu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
